@@ -23,3 +23,6 @@ Upload a screenshot of the whole screen:
 Upload a screenshot of a single window:
 
     $ cloudapp window:gvim
+
+Currently focused on Ubuntu with Unity, but hopefully this will support a range
+of platforms soon.
